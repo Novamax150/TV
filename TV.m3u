@@ -1731,7 +1731,7 @@ https://vid.canal1cr.com:3424/multi_live/play.m3u8
 http://45.163.139.42:8000/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a876b5631717b555cd4a977f934fe601882292c052bf6b6ab989b534e953e4f5.png" group-title="Costa Rica", OPA
-https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/index.m3u8
+https://5fe2654d6127d.streamlock.net/genteopabackup/videogenteopabackup/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES4-150x84.png" group-title="Costa Rica", Repretel Canal 4 
 http://45.163.139.42:8000/play/a02p/index.m3u8
@@ -1835,8 +1835,8 @@ https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="Costa Rica", Los Santos TV
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Costa Rica", Retro TV Online
-https://retroxtv.com/live/canal_retroxtvdwg/index.m3u8
+#EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/CghxleQvunv8jL00P7zVQgFBn6MiUMgQ0cf6WGM5.jpg" group-title="Costa Rica", Retrox TV 
+https://lbgo.bozztv.com/ssh101/ssh101/sternblink/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OpHYYZA.png" group-title="Costa Rica", TvSur CR
 https://k20.usastreams.com:8081/tvsur/index.m3u8
@@ -1856,7 +1856,7 @@ https://stream.enlineatv.net/hls/megatvcr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sAYNKJ8.png" group-title="Costa Rica", Garabito TV
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/hOql4FVmYfu7xsKVoD41sltdVoryVs5cVGI9JxtB.jpg" group-title="Costa Rica", Turrialba Digital TV CR
+#EXTINF:-1 tvg-logo="https://www.tvtres.com/assets/brand/tv-tres-logo-navbar-sm.png" group-title="Costa Rica", TV Tres CR
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F2rdjwJ.png" group-title="Costa Rica", RetroTV Palmares CR
@@ -1880,8 +1880,8 @@ https://s1.tvdatta.com:3972/live/88stereolive.m3u8
 #EXTINF:-1 tvg-logo="https://gextv.com/LOGO-WHITE.png" group-title="Costa Rica", Gex TV
 https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2024/07/canal-retroxtv.jpg" group-title="Costa Rica", Retrox TV
-https://live20.bozztv.com/giatv/giatv-RTVN/RTVN/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/LmHO7ZKaDTE1Aviy9p3oPfduWcjgR1iTfwROUEgv.jpg" group-title="Costa Rica", Retro TV Online
+https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dvo1b82.png" group-title="Costa Rica" group-title="Musicales", VM Latino CR
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
