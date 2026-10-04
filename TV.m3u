@@ -453,12 +453,6 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/wXBtbnj6sGVnABXgLQbKEehDHWXU12QY8Izb4GCX.png" group-title="Deportes", Mega Sport
 https://live20.bozztv.com/giatv/giatv-megasport/megasport/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.icon-icons.com/2699/PNG/512/fox_logo_icon_170126.png" group-title="Deportes", Fox en Tubi
-https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.icon-icons.com/2699/PNG/512/fox_logo_icon_170126.png" group-title="Deportes", Fox en Tubi Xtra
-https://aegis-cloudfront-1.tubi.video/0b3b6122-078c-4c89-ae5e-f548b9b1e382/playlist720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://lorini.net/assets/images/portafolio-05.png" group-title="Deportes", Sportsmax News
 https://cdnlive.klicgo.net/sportsmaxnews/live/playlist_dvr.m3u8
 
@@ -500,6 +494,49 @@ https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Deportes", Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1,Claro Sports 1 HD
+http://181.119.210.234:4000/play/a014/index.m3u8
+#EXTINF:-1,Claro Sports 2 HD
+http://181.119.210.234:4000/play/a015/index.m3u8
+#EXTINF:-1,Deportes TVC HN
+http://181.119.210.234:4000/play/a03y/index.m3u8
+#EXTINF:-1,ESPN HD
+http://181.119.210.234:4000/play/a067/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://181.119.210.234:4000/play/a068/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://181.119.210.234:4000/play/a069/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://181.119.210.234:4000/play/a02c/index.m3u8
+#EXTINF:-1,ESPN 5 HD
+http://181.119.210.234:4000/play/a065/index.m3u8
+#EXTINF:-1,ESPN 6 HD
+http://181.119.210.234:4000/play/a06a/index.m3u8
+#EXTINF:-1,FOX CR
+http://181.119.210.234:4000/play/a04u/index.m3u8
+#EXTINF:-1,FOX SV HD
+http://181.119.210.234:4000/play/a076/index.m3u8
+#EXTINF:-1,FOX GUA HD
+http://181.119.210.234:4000/play/a075/index.m3u8
+#EXTINF:-1,FOX HN HD
+http://181.119.210.234:4000/play/a071/index.m3u8
+#EXTINF:-1,FOX NIC HD
+http://181.119.210.234:4000/play/a070/index.m3u8
+#EXTINF:-1,FUTV CR
+http://181.119.210.234:4000/play/a059/index.m3u8
+#EXTINF:-1,FUTV HD CR
+http://181.119.210.234:4000/play/a066/index.m3u8
+#EXTINF:-1,Golf Channel HD
+http://181.119.210.234:4000/play/a02s/index.m3u8
+#EXTINF:-1,Latin America Sport
+http://181.119.210.234:4000/play/a03p/index.m3u8
+#EXTINF:-1,PXTV
+http://181.119.210.234:4000/play/a03o/index.m3u8
+#EXTINF:-1,TD+ HD CR
+http://181.119.210.234:4000/play/a00q/index.m3u8
+#EXTINF:-1,TD+2 HD CR
+http://181.119.210.234:4000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSZ8D47.png" group-title="Deportes", Azteca Deportes Network
 http://38.224.22.255:8000/play/a016/index.m3u8
