@@ -39,9 +39,6 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="Entretenimiento" group-title="Colombia", RCN Novelas
 https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F7cf438f7-5c5e-4140-987b-d93264d02247%2FCaracol_Mix_WHT_log.png" group-title="Entretenimiento" group-title="Colombia", Caracol Mix
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-69b3481702912c2ce7ad9a3d.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=AyZctTD4fE-J4VgG1LLX
-
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fedace34e-ac45-44b7-a562-265977557817%2FVive_KDD_LOGO-DarkBG_-_Alejandro_N.png" group-title="Entretenimiento", Kanal D
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
@@ -57,20 +54,11 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="Entretenimiento", AmericaTeVe Puerto Rico
 https://live.gideo.video/americateve2/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tsajuxi.png" group-title="Entretenimiento", Buena TV
-https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rjmGc9p.png" group-title="Entretenimiento", MasTV PR
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KWAuNXn.png" group-title="Entretenimiento", Charrua TV
-https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static-prod.adweek.com/wp-content/uploads/2022/05/Tastemade-2022.jpg" group-title="Entretenimiento", Tastemade Español
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
-
-#EXTINF:-1 group-title="Entretenimiento", Kfood
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-68b9f5a3d60e5dd29263c7ac.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
 
 #EXTINF:-1 tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/05/Entete-Wellbeing-TV.png" group-title="Entretenimiento", Wellbeing TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
@@ -125,9 +113,6 @@ https://008819cfebb1436da073a4acab4dcaa6.mediatailor.us-east-2.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61eSdW1MsgL.png" group-title="Entretenimiento", Hilton Miami Aventura
 https://758bbcb0a0c14193b004f3f776a56cab.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/hilton/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61eSdW1MsgL.png" group-title="Entretenimiento", Cuaima by Miami TV
-https://1ba9cda3f9ea445683d25cc0929327e8.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-Cuaima/1ae762a1-5c09-4988-89ed-2b7d2dfe7fa0/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ploustv.com/images/logo-w.png" group-title="Entretenimiento", PlousTV
 https://vcp.myplaytv.com/glowtv/glowtv/.m3u8
