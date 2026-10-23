@@ -9,10 +9,10 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/colorLogoPNG.png" group-title="Entretenimiento" group-title="Mexico", Imagen TV+
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ClqIQ4M.png" group-title="Entretenimiento", TV Azteca Conecta
+#EXTINF:-1 tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/MXBB2600010J2_20260818T060751SQUARE.png" group-title="Entretenimiento", TV Azteca Conecta
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Entretenimiento", TV Azteca Latidos
+#EXTINF:-1 tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/MXBB2600011DG_20260818T060756SQUARE.png" group-title="Entretenimiento", TV Azteca Latidos
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 
 #EXTINF:-1 tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/08/Multimedios-TV-Canal-6-en-vivo.png" group-title="Entretenimiento" group-title="Mexico", Multimedios CDMX
@@ -4795,7 +4795,6 @@ http://191.97.15.251:8000/play/a03l/index.m3u8
 
 
 
-
 #EXTINF:-1 group-title="TV Latinos 8",
 #EXTINF:-1,123 TV 
 http://200.59.191.177:8000/play/a0lb/index.m3u8
@@ -5071,7 +5070,6 @@ http://200.59.191.177:8000/play/a0oa/index.m3u8
 http://200.59.191.177:8000/play/a0mb/index.m3u8
 #EXTINF:-1,televen 
 http://200.59.191.177:8000/play/a00k/index.m3u8
-
 
 
 ---------------------------------------------------
