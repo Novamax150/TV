@@ -19,6 +19,9 @@ https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/38/64/1ecfc2ba4cbb920e1b4785eb75fb/logo-tv-azteca.png" group-title="Entretenimiento" group-title="Mexico", Azteca Internacional
+https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/38/64/1ecfc2ba4cbb920e1b4785eb75fb/logo-tv-azteca.png" group-title="Entretenimiento" group-title="Mexico", Azteca Internacional FAST
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/vGETUo5z3KPqsFkvyHdvRm-530-75.png" group-title="Entretenimiento", Estrella TV
@@ -62,9 +65,6 @@ https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-prod.adweek.com/wp-content/uploads/2022/05/Tastemade-2022.jpg" group-title="Entretenimiento", Tastemade Español
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/05/Entete-Wellbeing-TV.png" group-title="Entretenimiento", Wellbeing TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="Entretenimiento", Camera Smile
 https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
@@ -129,23 +129,26 @@ Kids
 ---------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png" group-title="Kids/Geek", Magic Kids TV 
+#EXTINF:-1 tvg-logo="https://magickids.site/img/ui/mgk-logo.gif" group-title="Kids/Geek", Magic TV 
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/209185.jpg" group-title="Kids/Geek", Retro Magico
 https://183.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Kids/Geek", Energeek
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=W3bEnerG33k2026
+https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=W3bEnerG33k2026
 
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Kids/Geek", Energeek Fan
-https://backend.energeek.cl/webtv/egfanweb/video.m3u8?token=W3bEnerG33k2026
+https://cl-2.backend.energeek.cl/bkp/egfanweb/video.m3u8?token=NeoTVCL
+
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/p-bitt-channel.png" group-title="Kids/Geek", Bitt TV
+https://cl-2.backend.energeek.cl/bitt-neo/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Kids/Geek", Dragon Ball 24/7
-https://183.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
+https://183.giatvcdn.com/giatv/giatv-dball/dball/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Kids/Geek", Retrotoons
-https://183.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/chunks.m3u8
+https://183.giatvcdn.com/giatv/giatv-Retrotoonstv/Retrotoonstv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvabierta.net/extremakids.png" group-title="Kids/Geek", Extremakids
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w1185698658.m3u8
@@ -233,15 +236,6 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Cine y Series", Xtrema Cine Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Cine y Series", Chespirito TV
-https://live20.bozztv.com/giatvplayout7/giatv-211111/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/08e88050b1e2ffedd1e49ad58df3cb4cfad4aa7cd8f4b2a7373a2062ccef8d4a.jpg" group-title="Cine y Series", El Chavo 24/7
-https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU2OWE0YWYtMjRlMS00NTUwLWJmZWUtODFhNzJiMGJlMzI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Cine y Series", Los Simpsons 24/7
-https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://es.xumo.com/_next/image?url=%2Fstatic%2Fimages%2Frefresh%2F2025%2Fadvertising-logos%2Fcontent-2-3.jpg" group-title="Cine y Series", El Señor de los cielos 24/7
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
@@ -1807,7 +1801,7 @@ https://5fe2654d6127d.streamlock.net/genteopabackup/videogenteopabackup/playlist
 #EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES4-150x84.png" group-title="Costa Rica", Repretel Canal 4 
 http://45.163.139.42:8000/play/a02p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.transdatelecom.com/streaming/supercinco.png" group-title="Costa Rica", Super 5 TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ46GHTH/SC.jpg" group-title="Costa Rica", Super 5 TV
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES6-150x84.png" group-title="Costa Rica", Repretel Canal 6 
@@ -1832,13 +1826,13 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 http://45.163.139.42:8000/play/a03a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gxtra-cr-extratv.cdn.mediatiquepress.com/wp-content/uploads/2024/10/logo-Extra-tv-blanco-1-e1728675680531-150x32.png" group-title="Costa Rica", Extra TV
-https://d2n1wzrr0aogf5.cloudfront.net/ts:abr.m3u8
+https://ddycmnicl95kp.cloudfront.net/live/82nbb8uzsywu/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://gxtra-cr-extratv.cdn.mediatiquepress.com/wp-content/uploads/2024/10/logo-Extra-tv-blanco-1-e1728675680531-150x32.png" group-title="Costa Rica", Extra Radio
-https://d3v7nstlr5lnxw.cloudfront.net/ts:abr.m3u8
+https://d22zwfk689c3qt.cloudfront.net/0_3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gxtra-cr-extratv.cdn.mediatiquepress.com/wp-content/uploads/2024/10/logo-Extra-tv-blanco-1-e1728675680531-150x32.png" group-title="Costa Rica", E-Music 
-https://dmq9flwdx65p5.cloudfront.net/ts:abr.m3u8
+https://ddycmnicl95kp.cloudfront.net/live/d0g0djden7xb/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://sinartdigital.com/images/miscelaneo/senales/canal_13_.png" group-title="Costa Rica", Sinart Canal 13
 http://45.163.139.42:8000/play/a02r/index.m3u8
@@ -2004,35 +1998,77 @@ https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Maya_TV_logo.png/1200px-Maya_TV_logo.png" group-title="America Central", TV Maya GT
 https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://qhubotv.com/content/images/2022/08/Logo-Q-HUBO-1.png" group-title="America Central", Q Hubo tv HN
+#EXTINF:-1 tvg-logo="https://qhubotv.com/content/images/2022/08/Logo-Q-HUBO-1.png" group-title="Honduras", Q Hubo tv HN
 https://amixtv.com:8081/qhubotv/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4hEYFa9.png" group-title="America Central",Canal 5 Honduras 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4hEYFa9.png" group-title="Honduras",Canal 5 Honduras 
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="America Central",TSi Honduras
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="Honduras",TSi Honduras
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="America Central", Canal 11 Honduras
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="Honduras", Canal 11 Honduras
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/1200px-VTV_HN_logo_2019.png" group-title="America Central", Vica TV Honduras 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/1200px-VTV_HN_logo_2019.png" group-title="Honduras", Vica TV Honduras 
 https://ddycmnicl95kp.cloudfront.net/live/tzjntcuz6gj2/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/LTV-Honduras-en-vivo-Online.png" group-title="America Central", LTV Honduras
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/LTV-Honduras-en-vivo-Online.png" group-title="Honduras", LTV Honduras
 https://amixtv.com:8081/ltvhn/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IC30j61.png" group-title="America Central", Ebezener TV HN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y1t8xkL.png" group-title="Honduras", Deportes TVC
+https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oPSfsvy.png" group-title="Honduras", Teleceiba
+https://teleceiba.com/stream/tlcb720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bcfmqHb.png" group-title="Honduras", TV Centro HN
+https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UCZVQgj.png" group-title="Honduras", ICN Digital
+https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IC30j61.png" group-title="Honduras", Ebezener TV HN
 https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X5C1GzB.png" group-title="America Central", TV Metropolis 19.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5C1GzB.png" group-title="Honduras", TV Metropolis 19.1
 https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QaocW5x.png" group-title="America Central", TV Metropolis 19.2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QaocW5x.png" group-title="Honduras", TV Metropolis 19.2
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BqS8BHi.png" group-title="America Central", Metro TV HN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8LnLEQz.png" group-title="Honduras", TV Olanchana
+https://viewhn.com/canal30/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v90r5jS.png" group-title="Honduras", Sula TV
+https://tv.webmedialive.com/sulatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fc5IHSy.png" group-title="Honduras", Lenca TV
+https://lencatelevision.com/hls/stream.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cteBdAJ.jpg" group-title="Honduras", Guayape TV 
+https://tv.bitstreaming.net:8443/live/guayapetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BqS8BHi.png" group-title="Honduras", Metro TV HN
 https://s.emisoras.tv:8081/metrotv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eORs1yt.jpg" group-title="Honduras", Telemas HN
+https://s.emisoras.tv:8081/telemas/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2t7A2yg.png" group-title="Honduras", Girasol TV HN
+https://s.emisoras.tv:8081/girasoltv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SbuD1UW.png" group-title="Honduras", Alsacias TV HN
+https://s.emisoras.tv:8081/atv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QLQgwc6.png" group-title="Honduras", CHTV
+https://viewhn.com/chtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5fPsYTz.png" group-title="Honduras", EDN TV
+https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0cqcyz4/Logo-2020-azul-El-lider-de-la-zona.png" group-title="Honduras", Talanga Vision 
+https://amixtv.com:8081/talangavision/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canal11.com.sv/logo11.png" group-title="America Central", TUTV Canal 11 SV
 https://stream.giostreaming.app/canal11/canal11.m3u8
