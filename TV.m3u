@@ -81,14 +81,11 @@ https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5fdbc1d5682ee122a7a5aa20/ed35e1a4-ec0a-426a-8ad4-0f41bd8a3675/RevryLogo_1920w.png" group-title="Entretenimiento", Revry
 https://88794468e8cd4ffbb3ad6d5a6ef7c4a5.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRYDOMESTIC-24i/mt/24i/43/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5fdbc1d5682ee122a7a5aa20/ed35e1a4-ec0a-426a-8ad4-0f41bd8a3675/RevryLogo_1920w.png" group-title="Entretenimiento", Revry Latinx
-https://f731ead539e447dfa2866e8f589da1ed.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-142-REVRYLATINX-24i/mt/24i/142/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5fdbc1d5682ee122a7a5aa20/ed35e1a4-ec0a-426a-8ad4-0f41bd8a3675/RevryLogo_1920w.png" group-title="Entretenimiento", Revry Her
-https://e1020cd35a264d63afeb5bfbc9c99157.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-73-REVRYHER-24i/mt/24i/73/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5fdbc1d5682ee122a7a5aa20/ed35e1a4-ec0a-426a-8ad4-0f41bd8a3675/RevryLogo_1920w.png" group-title="Entretenimiento", Revry 2
 https://8a5ca32b32db4d4c91cca727d42d63b3.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-5-REVRYGLOBAL-24i/mt/24i/5/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5fdbc1d5682ee122a7a5aa20/ed35e1a4-ec0a-426a-8ad4-0f41bd8a3675/RevryLogo_1920w.png" group-title="Entretenimiento", Revry Latinx
+https://f731ead539e447dfa2866e8f589da1ed.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-142-REVRYLATINX-24i/mt/24i/142/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/633-294x165-FFFFFF.jpg" group-title="Entretenimiento", Miami TV Latino
 https://6478139b04f94cf6a3e52c06b84c8d48.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-latino/playlist.m3u8
@@ -194,12 +191,6 @@ https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3wqeGXM.png" group-title="Kids/Geek", Filmrise Anime
 https://dvu7aia8rjlfm.cloudfront.net/4.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Kids/Geek", Multivox Retro Cartoons
-https://vtm1.msinteractiva.com/multivoxretcartoon/multivoxretcartoon/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Kids/Geek", Multivox Cartoon
-https://vtm1.msinteractiva.com/multivoxcartoons/multivoxcartoons/playlist.m3u8
 
 
 ---------------------------------------------------
@@ -331,25 +322,22 @@ Musicales
 ---------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://vclassictv.cl/wp-content/uploads/2024/09/lovovclassictv_24-e1725897773915.png" group-title="Musicales", VClassicTV 
+#EXTINF:-1 tvg-logo="https://vclassictv.cl/wp-content/uploads/2026/08/LogoVclassic2-scaled.png" group-title="Musicales", VClassicTV 
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png", Portal FoxMix 
+#EXTINF:-1 tvg-logo="https://vclassictv.cl/wp-content/uploads/2026/08/LogoVclassic2-scaled.png" group-title="Musicales", VClassicTV Tropical
+https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png" group-title="Musicales", Portal FoxMix 
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nkgOsSv.jpg", La Luperrona
-https://stream.ontvmx.com/ontv/TxZDojVwOpd3sgeHcI/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/39/2/exa-tv-logo-png_seeklogo-398623.png", EXA TV
-https://mvs-live.daioncdn.net/exatv/exatv.m3u8
-
-#EXTINF:-1 tvg-logo="https://lamegamundial.com//wp-content/uploads/2024/08/cropped-logolamega-vector-01-1-2048x876.png", La Mega Mundial
+#EXTINF:-1 tvg-logo="https://lamegamundial.com//wp-content/uploads/2024/08/cropped-logolamega-vector-01-1-2048x876.png" group-title="Musicales", La Mega Mundial
 https://server40.servistreaming.com:3477/stream/play.m3u8
 
-#EXTINF:-1, Hits Mexicanos
-https://d3s7x6kmqcnb6b.cloudfront.net/hls/OQTXJ5I/m.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4DfnOTA.png", Bandamax
+https://streaming.onnethn.com/Bandamax/index.m3u8
 
-#EXTINF:-1 tvg-logo="", MusicTop
+#EXTINF:-1 tvg-logo="" group-title="Musicales", MusicTop
 https://g4.mc-slo.transport.edge-access.net/a01/ngrp:musictop-100188_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1, Xite Siempre Latino
@@ -370,14 +358,26 @@ https://c234d2ca4266488cabe6eef411767d3b.mediatailor.us-east-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV DJ
 https://11c1368ec8294a8d8c7c079248909db4.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-dj/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/db23a2fc-104e-4ef8-8356-6a4d87ed1a46/trace_brazuca_dark_-_Nathan_BECKER__1_.png", TRACE Brasil
-https://d3b13j525hja2q.cloudfront.net/23073/Brazuka/encrypted.m3u8
+#EXTINF:-1 tvg-logo="https://miamitv.com/images/webp/6aa0110454f8e_positivejamz.webp", Positive Jams
+https://2f904baace5f4ed5ae0ccda2b663bde8.mediatailor.us-east-2.api.aws/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/positivejamz/57f71ed5-ab66-4732-8766-c5ee78f94459/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DFBocPu.png", TRACE Brazuca
+https://channels.trace.plus/Traceprod/BRAZIL_hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kPUkoS7.png", TRACE Afrika
+https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/04b0a12e-b393-4456-9927-a48b793b623a/trace_latina_light_-_Nathan_BECKER.png", TRACE Latina
 https://amg01131-tracetv-tracelatinaes-samsungspain-d7byg.amagi.tv/playlist/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png", TRACE Urban
 https://amg01131-tracetv-traceurbanes-samsungspain-c6yeo.amagi.tv/playlist/amg01131-tracetv-traceurbanes-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHD7Vxy.png", TRACE Caribbean
+https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ngF58fe.png", TRACE Vanilla Islands
+https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qu7t15Y.png", Deluxe Dance Germany
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
@@ -387,9 +387,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ab6p2SW.png", DBM TV
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fitdance.com/286e053af12e718380d455db6c393f01.webp" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png",Fitdance
-https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Offgrid/Fitdance_BR/Fitdance.m3u8
 
 #EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png", Stingray 90s
 https://lotus.stingray.com/manifest/ose-142ads-montreal/webapp/master.m3u8
@@ -472,6 +469,9 @@ https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2026_08/large.AYMSports3.png.9be222434bad804d50261497c62d7281.png" group-title="Deportes", AYM Sports 3
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5WNBFmp.png" group-title="Deportes", Wapa Deportes
+https://live.field59.com/t/1794434400_41745d98247a25339ff4cd692ee47d7552652dc0_1794454200/wapa/wapa2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="Deportes", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -2016,8 +2016,14 @@ https://ddycmnicl95kp.cloudfront.net/live/tzjntcuz6gj2/master.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/LTV-Honduras-en-vivo-Online.png" group-title="Honduras", LTV Honduras
 https://amixtv.com:8081/ltvhn/index.fmp4.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PTN7fCa.png" group-title="Honduras", Telecadena 7/4
+https://streaming.onnethn.com/TELECADENA/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y1t8xkL.png" group-title="Honduras", Deportes TVC
 https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sxFh1dw.png" group-title="Honduras", Azteca Honduras
+https://streaming.onnethn.com/AZTECA_HONDURAS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oPSfsvy.png" group-title="Honduras", Teleceiba
 https://teleceiba.com/stream/tlcb720.m3u8
@@ -5221,10 +5227,17 @@ https://59ec5453559f0.streamlock.net/sunbeachtv/smil:WEB/.m3u8
 
 #EXTINF:-1,Playboy HD
 http://191.97.15.251:8000/play/a01y/index.m3u8
+#EXTINF:-1,Playboy
+https://streaming.onnethn.com/PLAYBOY/index.m3u8
+
 #EXTINF:-1,Venus
 http://191.97.15.251:8000/play/a00x/index.m3u8
+#EXTINF:-1,Venus 
+https://streaming.onnethn.com/VENUS/index.m3u8
+
 #EXTINF:-1,Sextreme
 http://191.97.15.251:8000/play/a011/index.m3u8
+
 
 #EXTINF:-1, Adult IPTV 1
 https://live.adultiptv.net/bigtits.m3u8
