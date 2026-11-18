@@ -340,6 +340,9 @@ https://streaming.onnethn.com/Bandamax/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Musicales", MusicTop
 https://g4.mc-slo.transport.edge-access.net/a01/ngrp:musictop-100188_all/Playlist.m3u8?sense=true
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCg7owd.png" group-title="Musicales", Mas Musica FM
+https://movil.ejeserver.com/live/masmusica.m3u8
+
 #EXTINF:-1, Xite Siempre Latino
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
 #EXTINF:-1, Xite Nuevo Latino
@@ -352,6 +355,9 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/mas
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png",Totalmusic 2000s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rbJrmPw.png", Sol Musica
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV Music
 https://c234d2ca4266488cabe6eef411767d3b.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-Music/playlist.m3u8
 
@@ -361,11 +367,8 @@ https://11c1368ec8294a8d8c7c079248909db4.mediatailor.us-east-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://miamitv.com/images/webp/6aa0110454f8e_positivejamz.webp", Positive Jams
 https://2f904baace5f4ed5ae0ccda2b663bde8.mediatailor.us-east-2.api.aws/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/positivejamz/57f71ed5-ab66-4732-8766-c5ee78f94459/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DFBocPu.png", TRACE Brazuca
-https://channels.trace.plus/Traceprod/BRAZIL_hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kPUkoS7.png", TRACE Afrika
-https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DFBocPu.png", TRACE Brasil
+https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/04b0a12e-b393-4456-9927-a48b793b623a/trace_latina_light_-_Nathan_BECKER.png", TRACE Latina
 https://amg01131-tracetv-tracelatinaes-samsungspain-d7byg.amagi.tv/playlist/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
@@ -373,11 +376,8 @@ https://amg01131-tracetv-tracelatinaes-samsungspain-d7byg.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png", TRACE Urban
 https://amg01131-tracetv-traceurbanes-samsungspain-c6yeo.amagi.tv/playlist/amg01131-tracetv-traceurbanes-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHD7Vxy.png", TRACE Caribbean
-https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ngF58fe.png", TRACE Vanilla Islands
-https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
+#EXTINF:-1, TRACE UK
+https://d2l4tng0wskzvn.cloudfront.net/Trace_GB4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qu7t15Y.png", Deluxe Dance Germany
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
